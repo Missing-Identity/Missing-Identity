@@ -1,7 +1,7 @@
 ### Hi there. I'm Unmilan Mukherjee!
 ![Karna](https://github.com/Missing-Identity/gifs/blob/master/Karna.gif)
 ### GitHub stats
-[![Missing-Identity's github stats](https://github-readme-stats.vercel.app/api?username=Missing-Identity&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Missing-Identity's github stats](https://github-readme-stats.vercel.app/api?username=Missing-Identity&show_icons=true&count_private=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Missing-Identity)](https://github.com/anuraghazra/github-readme-stats)
