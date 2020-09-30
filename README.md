@@ -8,7 +8,7 @@
 
 ### - 🌱 I’m currently learning Front-End Web Development
 
-![](https://komarev.com/ghpvc/?username=Missing-Identity&color=green&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Missing-Identity&color=red&style=flat-square)
 <!--
 **Missing-Identity/Missing-Identity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
