@@ -5,6 +5,10 @@
 
 ### Top Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Missing-Identity)](https://github.com/anuraghazra/github-readme-stats)
+
+### - 🌱 I’m currently learning Front-End Web Development
+
+![](https://komarev.com/ghpvc/?username=Missing-Identity&color=green)
 <!--
 **Missing-Identity/Missing-Identity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
