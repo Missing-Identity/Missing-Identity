@@ -6,7 +6,7 @@
 ### Top Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Missing-Identity)](https://github.com/anuraghazra/github-readme-stats)
 
-### - 🌱 I’m currently learning Front-End Web Development
+### - 🌱 I’m a Web Developer
 
 ![](https://komarev.com/ghpvc/?username=Missing-Identity&color=red&style=flat-square)
 <!--
