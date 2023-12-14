@@ -16,9 +16,6 @@ I'm passionate about creating and contributing to web technologies, with a keen 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ...and many more! (Still learning and updating myself, do go through my repos and Twitter to know more about my journey!)
 
-### Top Languages used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Missing-Identity)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=Missing-Identity&color=red&style=flat-square)
 
 ### 📈 GitHub Stats
