@@ -16,8 +16,6 @@ I'm passionate about creating and contributing to web technologies, with a keen 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ...and many more! (Still learning and updating myself, do go through my repos and Twitter to know more about my journey!)
 
-![](https://komarev.com/ghpvc/?username=Missing-Identity&color=red&style=flat-square)
-
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Missing-Identity&show_icons=true&theme=radical)
 
