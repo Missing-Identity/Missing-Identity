@@ -16,6 +16,11 @@ I'm passionate about creating and contributing to web technologies, with a keen 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ...and many more! (Still learning and updating myself, do go through my repos and Twitter to know more about my journey!)
 
+### Top Languages used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Missing-Identity)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Missing-Identity&color=red&style=flat-square)
+
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Missing-Identity&show_icons=true&theme=radical)
 
@@ -42,15 +47,6 @@ Feel free to connect with me on [Twitter](https://twitter.com/unmilan69) or [Lin
 ---
 
 <sub>Last updated by Unmilan Mukherjee on 15/12/2023</sub>
-
-
-### GitHub stats
-[![Missing-Identity's github stats](https://github-readme-stats.vercel.app/api?username=Missing-Identity&show_icons=true&count_private=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top Languages used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Missing-Identity)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=Missing-Identity&color=red&style=flat-square)
 <!--
 **Missing-Identity/Missing-Identity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
