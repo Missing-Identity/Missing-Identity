@@ -1,58 +1,28 @@
-# Hi there, I'm Unmilan Mukherjee 👋
+# Hi, I'm Unmilan Mukherjee 👋
 
-## Full Stack Web Developer | Python Enthusiast
+## Senior AI Engineer
 
-I'm passionate about creating and contributing to web technologies, with a keen interest in Full Stack Web Development. I enjoy working with a diverse set of tools and languages, including Python, JavaScript, HTML, CSS, Flask, Django, APIs, and Docker.
+AI Engineer with ~3 years of experience, focused on building clean, reliable LLM pipelines and Document AI systems. Previously worked as a core AI Engineer; before that, working across the full stack. These days my interest leans toward system-level AI: how the pieces fit together, how to make them verifiable, and how to keep them maintainable.
 
-### 🌐 Socials:
-- Twitter: [unmilan69](https://twitter.com/unmilan69)
+### What I'm working on
+- Systems engineering for LLMs, pipelines, and agents
+- LLM pipelines with LangChain and LlamaIndex
+- Document AI / OCR workflows (OpenCV, PyTorch)
+- Daily open-source contributions — chipping away at a PR a day
+
+### How I work
+- Reach for `uv` for Python environments and dependency management
+- Run automation and cloud agents to keep the boring parts boring
+
+### Tech I use
+- Languages: Python, JavaScript
+- AI / ML: PyTorch, LangChain, LlamaIndex, OpenCV
+- Focus areas: LLM pipelines, Document AI, OCR, system-level AI
+- Tooling: uv, Docker, Git
+
+### Reach me
 - LinkedIn: [Unmilan Mukherjee](https://www.linkedin.com/in/unmilan-mukherjee-a549a4190/)
-
-### 💼 Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-...and many more! (Still learning and updating myself, do go through my repos and Twitter to know more about my journey!)
-
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Missing-Identity&show_icons=true&theme=radical)
-
-### 🔭 I'm currently working on
-- Learning about Open Source Contributions
-- Various full-stack projects
-- Making Machine Learning Models
-
-### 🌱 I'm currently learning
-- Advanced aspects of Full Stack Development
-- Exploring new technologies and tools in web development
-- Learning how to start contributing to Open Source
-- Learning Machine Learning and API creation using Flask
-
-### 🚀 Quick Links
-- [My Projects](https://github.com/Missing-Identity?tab=repositories)
-
-### 📫 How to reach me
-Feel free to connect with me on [Twitter](https://twitter.com/unmilan69) or [LinkedIn](https://www.linkedin.com/in/unmilan-mukherjee-a549a4190/).
-
-### ✨ Featured Projects
-- [repositories](https://github.com/Missing-Identity?tab=repositories)
+- Twitter/X: [unmilan69](https://twitter.com/unmilan69)
 
 ---
-
-<sub>Last updated by Unmilan Mukherjee on 15/12/2023</sub>
-<!--
-**Missing-Identity/Missing-Identity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Last updated 21/06/2026</sub>
